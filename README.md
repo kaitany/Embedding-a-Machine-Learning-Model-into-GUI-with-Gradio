@@ -1,6 +1,6 @@
 ## Gradio App - Store Sales Prediction for Corporation Favorita
 
-![Screenshot](GRADIO_PROJECT\Images\Screenshot.jpeg)
+![Screenshot](GRADIO_PROJECT/Images/Screenshot.jpeg)
 
 Welcome to the Gradio Machine Learning Model Embedding Project using Gradio! This project demonstrates how to embed a machine learning model to predict customer churn for Vodafone Telecom, a telecommunications company. The Gradio app provides an interactive interface for users to input variables and obtain churn prediction.
 
