@@ -20,11 +20,11 @@ categorical_cols = ['SeniorCitizen', 'Partner', 'Dependents', 'PhoneService', 'M
 #setup
 #variables and constants
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
-ml_core_fp = os.path.join(DIRPATH, "Gradio_toolkit.pkl")
-#Function to load dataset
+ml_core_fp = os.path.join(DIRPATH, "src\Gradio_toolkit.pkl")
+#Function to load dataset")
 
 # Load your image file
-image_path = os.path.join(DIRPATH, r"Datasets\image\Understanding Customer Churn.png")  
+image_path = os.path.join(DIRPATH, r"Images\Understanding Customer Churn.png")  
 # Create an Image component
 app_image = gr.Image(image_path)
 
